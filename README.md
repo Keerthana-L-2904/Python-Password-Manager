@@ -24,12 +24,12 @@ MODULES used in this project:
             shuffle(): Randomly reorders elements in a list.
             choice(): Returns a randomly selected element from a non-empty sequence.
 TECH STACK
-1.	Python
-       Description: Python is a high-level, interpreted programming language known for its readability and simplicity. It is widely used for various applications, including web development, data analysis, artificial intelligence, and more.
+    1.	Python
+       Description: Python is a high-level, interpreted programming language known for its readability and simplicity. It is widely used for various applications, including web development, data analysis,         artificial intelligence, and more.
        Usage in Project: The entire project is written in Python, utilizing its standard libraries and modules for GUI development, file handling, and random operations.
-2.  Tkinter
+    2.  Tkinter
       Description: tkinter is the standard GUI toolkit in Python. It allows the creation of desktop applications with graphical user interfaces.
       Usage in Project: tkinter is used to create the user interface of the password manager. It provides the main window, input fields, buttons, and message boxes.
-3.  Text File Handling
+    3.  Text File Handling
       Description: The project uses text file handling to store and retrieve passwords. Text files are a simple and efficient way to manage small amounts of data.
       Usage in Project: Passwords are saved in a text file (passwords.txt). The application reads from and writes to this file to add, retrieve, list, and delete passwords.
